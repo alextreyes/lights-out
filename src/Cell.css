@@ -1,0 +1,13 @@
+.Cell {
+  height: 100px;
+  width: 100px;
+  background-color: darkgray;
+  cursor: pointer;
+  border: 2px solid black; /* Add a border for better visibility */
+  display: inline-block; /* Ensures cells are treated as blocks within the row */
+}
+
+.Cell-lit {
+  background-color: white; /* White background for lit cells */
+}
+

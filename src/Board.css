@@ -1,0 +1,8 @@
+.Board {
+  display: inline-block; /* Ensures the board is centered and only takes up as much space as needed */
+  margin: 0 auto;
+  padding: 10px;
+  border: 2px solid #000;
+  background-color: #eee;
+}
+
